@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on self-driving labs for accelerating polymers research
+- 🌱 I’m currently learning about GitHub
